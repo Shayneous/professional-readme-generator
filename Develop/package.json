@@ -1,0 +1,19 @@
+{
+  "name": "professional-readme-generator",
+  "version": "1.0.0",
+  "description": "An application to generate a readme file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shayneous/professional-readme-generator.git"
+  },
+  "author": "Shayne Ganness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shayneous/professional-readme-generator/issues"
+  },
+  "homepage": "https://github.com/Shayneous/professional-readme-generator#readme"
+}
